@@ -13,3 +13,5 @@ Yatisha Raul
 2012A7PS108G
 
 Backend not working: No changes were made in the database even after entering data.
+Also, rhc setup did not work as it gave an authentication error even after entering correct credentials.
+So it could not be hosted on openshift.
