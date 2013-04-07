@@ -1,0 +1,94 @@
+#tabs
+{
+	width:200px;
+	position: absolute;
+	top:350px;
+	left:0px;
+}
+#tabs a
+{
+	display: block;
+	font: 20pt arial;
+	text-transform: lowercase;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
+#tabs a:hover
+{
+	color: black;
+	background: white;
+}
+#songs
+{
+	background: #000000;
+}
+#genre
+{
+	background: #333333;
+}
+#artists
+{
+	background: #666666;
+}
+#albums
+{
+	background: #999999;
+}
+#genres
+{
+	position: absolute;
+	top:350px;
+	left:200px;
+}
+body
+{
+	background:url('bgimg.jpg');
+}
+#genres a
+{
+	display: inline;
+	font: 20pt arial;
+	text-transform: lowercase;
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
+#audio_player
+{
+	visibility: hidden;
+}
+#blog
+{
+	position: absolute;
+	background: white;
+	top: 100px;
+	left: 250px;
+	height: 500px;
+	width: 700px;
+	padding: 15px;
+	opacity: .6;
+}
+#blog a
+{
+	text-decoration: none;
+	color: black;
+}
+#maintext
+{
+	position: absolute;
+	top:20px;
+	left: 190px;
+	font: 70pt arial;
+	text-transform: uppercase;
+	color: white;
+}
+#logindiv
+{
+	position: absolute;
+	top:35px;
+	left: 680px;
+	font: 10pt arial;
+	text-transform: uppercase;
+	color: white;
+}
